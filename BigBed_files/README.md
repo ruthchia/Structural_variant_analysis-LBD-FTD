@@ -10,6 +10,7 @@ Structural variants and samples included are of the filtered, high-quality subse
 BigBed tracks can be used in Ensembl location tab (location of your choice) by going Add/Remove Tracks > Personal Data tab > Add name of your choice paste file URL of choice and add file type bigBed
 
 LBD cases: https://github.com/ruthchia/Structural_variant_analysis-LBD-FTD/blob/main/BigBed_files/LBD_cases_analyzed.bb?raw=true
+
 LBD controls: https://github.com/ruthchia/Structural_variant_analysis-LBD-FTD/blob/main/BigBed_files/LBD_controls_analyzed.bb?raw=true
 FTD/ALS cases: https://github.com/ruthchia/Structural_variant_analysis-LBD-FTD/blob/main/BigBed_files/FTD_cases_analyzed.bb?raw=true
 FTD/ALS controls: https://github.com/ruthchia/Structural_variant_analysis-LBD-FTD/blob/main/BigBed_files/FTD_controls_analyzed.bb?raw=true
