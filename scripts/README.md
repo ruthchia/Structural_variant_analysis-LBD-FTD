@@ -9,3 +9,9 @@ This directory contains jupyter notebook in ipynb and html format that contain s
 6. Original shiny app code (for up-to-date code see shinyapp directory of this repository)
 7. Plotting
 8. BigBed file creation
+
+**KK_edited_2022-07-04_DataPrep_FTD.LBD_merge.SV-1perc-fdr_and_SNV_forSharing_Github** main contents:
+1. Post-GATK-SV data filtering
+2. Data merging with SNV data
+3. PC generation
+4. step() to determine for which covariates adjustment is needed in association analyses
