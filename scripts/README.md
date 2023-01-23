@@ -15,3 +15,7 @@ This directory contains jupyter notebook in ipynb and html format that contain s
 2. Data merging with SNV data
 3. PC generation
 4. step() to determine for which covariates adjustment is needed in association analyses
+
+**KK_edits_2022-07-05_Readme.SV.GLM.{LBD/FTD}.4Kcontrols.merged.SNVindels_SV-1perc-fdr_updatedFilters_forSharing_Github** main contents:
+1. Running GLM with PLINK2 to perform genome-wide association analyses
+2. Post-hoc filtering of e.g. centromeric, telomeric, VDJ regions and sites with inoptimal quality.
